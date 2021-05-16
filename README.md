@@ -7,7 +7,7 @@ I Primarily work in  data science, analytics and DevOps fields.
 ### For Backend
 <p float="left">
    <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/122abhi/122abhi/main/assets/giphy.webp"  height="75" />
+    <img src="https://raw.githubusercontent.com/122abhi/122abhi/main/assets/giphy.gif"  height="75" />
   </a>
 </p>
 
