@@ -3,7 +3,7 @@ I am Abhishek, a curious developer, who loves solving problems and working on pr
 I Primarily work in  data science + analytics and DevOps fields.
 
 <!--
-**122abhi/122abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**122abhi/122abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,15 +12,15 @@ Here are some ideas to get you started:
 ### Backend
 <p float="left">
    <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/122abhi/122abhi/master/assets/python.webp"  height="75" />
+    <img src="https://raw.githubusercontent.com/122abhi/122abhi/main/assets/python.webp"  height="75" />
   </a>
 </p>
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
