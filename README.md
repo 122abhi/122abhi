@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Abhishek, a curious developer, who loves solving problems and working on products & opensource projects. 
+I Primarily work in  data science + analytics and DevOps fields.
 
 <!--
 **122abhi/122abhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
