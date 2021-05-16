@@ -8,6 +8,14 @@ I Primarily work in  data science + analytics and DevOps fields.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+### Backend
+<p float="left">
+   <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/122abhi/122abhi/master/assets/python.webp"  height="75" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
