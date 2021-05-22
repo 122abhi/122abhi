@@ -1,4 +1,4 @@
-### Hi there, Abhishek Here 👋 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=122abhi.122abhi.visitor-badge)
+### Hi there, Abhishek Here 👋 
 I am Abhishek, a curious developer, who loves solving problems and working on products & opensource projects. 
 I Primarily work in  data science, analytics and DevOps fields.
 <!--### Glad to see you here! -->
